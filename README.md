@@ -1,3 +1,3 @@
 # React_Learn
 Learning React JS
-finishind learnin JavaScript
+finishind learning JavaScript  dAy 18
