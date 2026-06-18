@@ -1,2 +1,3 @@
 # React_Learn
-Learnin React JS 
+Learning React JS
+finishind learnin JavaScript
